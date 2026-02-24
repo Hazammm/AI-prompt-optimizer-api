@@ -1,1 +1,1 @@
-print("day one")
+print("1st week of the project")
